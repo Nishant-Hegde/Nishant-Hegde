@@ -2,22 +2,14 @@
 
 🎓 I'm a **Second Year B.Tech Student** passionate about technology, problem-solving, and building things that matter.
 
-🚀 **Currently Learning:**
-- **Web Development** (The Odin Project) — MERN Stack: HTML, CSS, JavaScript, React, Node.js, MongoDB
-- **Data Structures & Algorithms** (CLRS + MIT OpenCourseWare)
 
 💻 **Languages I Know:**
 - **C**
 - **Python**
 - Learning **JavaScript**, **React**, and **Node.js**
 
-🔗 **My Current Focus:**
-- Building real-world **web applications**
-- Strengthening **algorithmic thinking** and **coding skills** through practice
 
-📌 **Upcoming Projects:**
-- Web apps from The Odin Project
-- DSA problem-solving repository
+
 
 
 
