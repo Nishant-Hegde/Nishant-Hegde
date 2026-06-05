@@ -22,7 +22,7 @@
 [![Location](https://img.shields.io/badge/📍_Bengaluru,_India-0d1117?style=flat-square&labelColor=21262d&color=30363d)](https://github.com/Nishant-Hegde)
 [![University](https://img.shields.io/badge/🎓_PES_University-0d1117?style=flat-square&labelColor=21262d&color=30363d)](https://github.com/Nishant-Hegde)
 [![Batch](https://img.shields.io/badge/B.Tech_CSE_·_2024–2028-0d1117?style=flat-square&labelColor=21262d&color=30363d)](https://github.com/Nishant-Hegde)
-[![CGPA](https://img.shields.io/badge/⚡_CGPA_8.47-0d1117?style=flat-square&labelColor=1f6feb&color=388bfd)](https://github.com/Nishant-Hegde)
+[![CGPA](https://img.shields.io/badge/⚡_CGPA_8.62-0d1117?style=flat-square&labelColor=1f6feb&color=388bfd)](https://github.com/Nishant-Hegde)
 
 <br/>
 
@@ -44,7 +44,7 @@
 class NishantHegde:
     location    = "Bengaluru, India"
     university  = "PES University · B.Tech CSE (2024–2028)"
-    cgpa        = 8.47
+    cgpa        = 8.62
     interests   = ["OS internals", "TCP/IP", "CTF challenges", "SDN"]
     currently   = "Going deep on systems programming & network security"
     available   = True  # open to internships & collaborations
@@ -151,7 +151,7 @@ class NishantHegde:
 |:---:|:---:|
 | **Projects** | 3 |
 | **Languages** | 4 |
-| **CGPA** | 8.47 / 10 |
+| **CGPA** | 8.62 / 10 |
 
 <br/>
 
